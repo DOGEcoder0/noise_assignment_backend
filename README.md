@@ -7,5 +7,5 @@
 3. download all files from the repo into your app folder
    add one .env file and write Mongodb connnection string
 4. run command
-   npm run start./n
+   npm run start.
 I have used postman for APIs
