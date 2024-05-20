@@ -5,7 +5,7 @@
    1. npm init -y
    2. npm i mongoose express bcryptjs jsonwebtoken dotenv
 4. download all files from the repo into your app folder
-   add one .env file and write Mongodb connnection string
+   add one .env file and write Mongodb connnection string as MONGO_URI = your_connection_string ;
 5. run command
    1. npm run start.
 I have used postman for APIs
